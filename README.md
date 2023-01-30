@@ -22,7 +22,7 @@ https://docs.google.com/spreadsheets/d/1svu84vUmiMjZooO7ixXJ45pa46d1mX262o0yKI53
 * gradel 또는 maven 주로 사용.
 * maven 사용
 
-프로젝트 선택 - 오른쪽 버튼 멘뉴 configure - convert to maven project
+* 프로젝트 선택 - 오른쪽 버튼 멘뉴 configure - convert to maven project
 * pom.xml 의 오류는  run as 에서 maven install 후에 프로젝트 우클릭
 	-> maven 에서 updatae project
 
