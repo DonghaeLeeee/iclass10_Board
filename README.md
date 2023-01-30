@@ -14,8 +14,9 @@
 * git push - 커밋 상태를 로컬에서 원격저장소로 전송
 https://docs.google.com/spreadsheets/d/1svu84vUmiMjZooO7ixXJ45pa46d1mX262o0yKI532_E/edit#gid=717910587 링크 2번부터 실행하세요.
 (github 토큰 생성방법은 1번)
-
-자격증명관리자 -> 내아이디가 아니면 안될수도있음
+* git fetch - 원격 저장소의 master 변경내용 확인
+* git pull - 원격 저장소 master 의 변경 커밋 가져오기
+* 자격증명관리자 -> 내아이디가 아니면 안될수도있음
 
 
 ### 4. 빌드도구
