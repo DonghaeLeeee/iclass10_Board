@@ -58,3 +58,7 @@ VALUES (comment_idx_seq.nextval,9,'김땡땡','하이!!!하이~~');
 
 SELECT * FROM COMMUNITY c ;
 SELECT * FROM COMMUNITYCOMMENTS c ;
+DELETE FROM COMMUNITY c 
+WHERE WRITER = '트트트';
+CREATE SEQUENCE community_idx_seq
+START WITH 10;
